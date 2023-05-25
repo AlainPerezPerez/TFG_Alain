@@ -1,0 +1,1 @@
+cmd = /home/alain/Human_TF/GATA1/BIO/Raw_bio/secuencias_GATA1_BIO.fasta human /home/alain/Human_TF/GATA1/BIO/Raw_homer_bio/ -fastaBg /home/alain/BackgroundSeq/Human/seq_genome_background_regions_both_filter_subset.fasta -p 10 -len 8,10,12

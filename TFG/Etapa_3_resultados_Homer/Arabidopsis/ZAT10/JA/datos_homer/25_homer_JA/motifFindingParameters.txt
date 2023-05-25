@@ -1,0 +1,1 @@
+cmd = /home/alain/Arabidopsis_TF/ZAT10/JA/25_JA/secuencias25_ZAT10_JA.fasta arabidopsis /home/alain/Arabidopsis_TF/ZAT10/JA/25_homer_JA/ -fastaBg /home/alain/BackgroundSeq/Arabidopsis/seq_genome_background_region_both_region_filter_subset.fasta -p 10 -len 8,10,12

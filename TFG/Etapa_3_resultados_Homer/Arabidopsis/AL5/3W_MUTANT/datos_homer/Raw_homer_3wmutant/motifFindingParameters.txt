@@ -1,0 +1,1 @@
+cmd = /home/alain/Arabidopsis_TF/AL5/3WMUTANT/Raw_3wmutant/secuencias_AL5_3WMUTANT.fasta arabidopsis /home/alain/Arabidopsis_TF/AL5/3WMUTANT/Raw_homer_3wmutant/ -fastaBg /home/alain/BackgroundSeq/Arabidopsis/seq_genome_background_region_both_region_filter_subset.fasta -p 10 -len 8,10,12
