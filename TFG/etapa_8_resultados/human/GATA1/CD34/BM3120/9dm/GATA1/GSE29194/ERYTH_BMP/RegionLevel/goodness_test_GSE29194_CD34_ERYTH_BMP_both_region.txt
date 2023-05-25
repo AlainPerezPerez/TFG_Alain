@@ -1,0 +1,2 @@
+BackgroundModel:ChSqM	statistic	Free Degree	p-value	-log_p-value	entropy.background	entropy.dataset
+BM:9dm:both:GSE29194:ERYTH_BMP	7629.37403834319	8	0	3791.73815040123	1.39726304529153	1.68607982620236

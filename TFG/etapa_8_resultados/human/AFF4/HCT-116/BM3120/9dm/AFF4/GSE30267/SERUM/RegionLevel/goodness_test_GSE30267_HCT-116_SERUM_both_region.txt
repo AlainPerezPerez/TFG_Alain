@@ -1,0 +1,2 @@
+BackgroundModel:ChSqM	statistic	Free Degree	p-value	-log_p-value	entropy.background	entropy.dataset
+BM:9dm:both:GSE30267:SERUM	5599.51019138564	8	0	2777.73392176899	1.39143947821062	2.25029503059705

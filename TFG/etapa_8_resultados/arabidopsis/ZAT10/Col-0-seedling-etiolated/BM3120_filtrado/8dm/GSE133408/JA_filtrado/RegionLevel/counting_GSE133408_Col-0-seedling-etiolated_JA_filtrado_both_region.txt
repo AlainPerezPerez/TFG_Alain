@@ -1,0 +1,6 @@
+#chr	strand	tf	study	cell_line	bio_cond	level	promoter	proximal	enhancer	cleavage	splice	exon	intron	intergenic
+1	*	ZAT10	GSE133408	Col-0-seedling-etiolated	JA	region	157	114	46	28	69	274	63	444
+2	*	ZAT10	GSE133408	Col-0-seedling-etiolated	JA	region	83	63	32	15	30	160	40	387
+3	*	ZAT10	GSE133408	Col-0-seedling-etiolated	JA	region	118	57	41	24	44	202	48	462
+4	*	ZAT10	GSE133408	Col-0-seedling-etiolated	JA	region	86	55	27	22	37	158	50	319
+5	*	ZAT10	GSE133408	Col-0-seedling-etiolated	JA	region	111	80	34	27	56	228	52	412

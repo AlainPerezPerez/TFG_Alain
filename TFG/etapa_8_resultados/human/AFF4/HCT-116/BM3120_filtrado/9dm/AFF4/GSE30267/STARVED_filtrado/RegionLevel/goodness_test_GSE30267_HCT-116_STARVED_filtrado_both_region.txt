@@ -1,0 +1,2 @@
+BackgroundModel:ChSqM	statistic	Free Degree	p-value	-log_p-value	entropy.background	entropy.dataset
+BM:9dm:both:GSE30267:STARVED	1233.22701419642	8	6.34101711354513e-261	599.12767008786	1.3207643784741	2.23831653101843

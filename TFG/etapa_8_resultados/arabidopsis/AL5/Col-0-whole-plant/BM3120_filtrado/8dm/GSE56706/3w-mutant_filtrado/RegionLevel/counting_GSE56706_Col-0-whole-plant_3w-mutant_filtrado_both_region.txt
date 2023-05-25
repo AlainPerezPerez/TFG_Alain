@@ -1,0 +1,6 @@
+#chr	strand	tf	study	cell_line	bio_cond	level	promoter	proximal	enhancer	cleavage	splice	exon	intron	intergenic
+1	*	AL5	GSE56706	Col-0-whole-plant	3w-mutant	region	1	0	0	0	0	12	1	2
+2	*	AL5	GSE56706	Col-0-whole-plant	3w-mutant	region	0	2	0	0	1	5	0	3
+3	*	AL5	GSE56706	Col-0-whole-plant	3w-mutant	region	0	1	0	1	1	12	0	1
+4	*	AL5	GSE56706	Col-0-whole-plant	3w-mutant	region	0	0	0	0	0	12	1	0
+5	*	AL5	GSE56706	Col-0-whole-plant	3w-mutant	region	0	0	0	0	1	8	0	1

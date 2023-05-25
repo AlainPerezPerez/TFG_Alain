@@ -1,0 +1,2 @@
+BackgroundModel:ChSqM	statistic	Free Degree	p-value	-log_p-value	entropy.background	entropy.dataset
+BM:8dm:both:GSE133408:AIR	14268.7278200151	7	0	7113.38283724278	2.43359628216863	2.56333795597355

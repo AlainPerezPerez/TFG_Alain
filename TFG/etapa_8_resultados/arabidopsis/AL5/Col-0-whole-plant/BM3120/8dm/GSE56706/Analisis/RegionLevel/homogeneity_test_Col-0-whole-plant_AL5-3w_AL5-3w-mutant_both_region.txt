@@ -1,0 +1,2 @@
+background	statistic	free degree	p-value	-log_p-value
+BM:8dm:both	16.3179019345142	7	0.0223654673840194	3.80023714430453
